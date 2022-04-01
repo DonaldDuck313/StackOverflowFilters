@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         Stack Overflow Filters
+// @name         Stack Overflow Bookface Filter
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  try to take over the world!
-// @author       You
+// @author       DonaldDuck313
 // @match        https://stackoverflow.com/*
 // @icon         https://www.google.com/s2/favicons?domain=stackoverflow.com
 // @grant        none
